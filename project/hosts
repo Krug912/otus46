@@ -1,4 +1,4 @@
 [servers]
-node1 ansible_host=192.168.50.250 ansible_user=vagrant ansible_ssh_private_key_file=../.vagrant/machines/node1/virtualbox/private_key 
-node2 ansible_host=192.168.50.251 ansible_user=vagrant ansible_ssh_private_key_file=../.vagrant/machines/node2/virtualbox/private_key 
-barman ansible_host=192.168.50.252 ansible_user=vagrant ansible_ssh_private_key_file=../.vagrant/machines/barman/virtualbox/private_key 
+node1 ansible_host=192.168.255.250 ansible_user=vagrant ansible_ssh_private_key_file=../.vagrant/machines/node1/virtualbox/private_key 
+node2 ansible_host=192.168.255.251 ansible_user=vagrant ansible_ssh_private_key_file=../.vagrant/machines/node2/virtualbox/private_key 
+barman ansible_host=192.168.255.252 ansible_user=vagrant ansible_ssh_private_key_file=../.vagrant/machines/barman/virtualbox/private_key 
